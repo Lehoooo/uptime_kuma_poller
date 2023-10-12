@@ -17,8 +17,10 @@ Put that URL into config.json
 ON MONITORED SERVER
 ------------------
 
-Make sure the config.json is correct, then:
+1. Clone this repo
+
+2. Make sure the config.json is correct, then:
 
 ```docker compose up -d```
 
-done have fun :)
+3. done have fun :)
